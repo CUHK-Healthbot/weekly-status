@@ -31,7 +31,6 @@ This document contains the contact information for members of the CUHK Summer Re
 - **GitHub ID**: [ZhihanHu](https://github.com/ZhihanHu)
 - **Email**: huzhihan@usc.edu
 - **Location**: Los Angeles, USA
-## Additional Information
 
 #### Ziqin Wei
 
