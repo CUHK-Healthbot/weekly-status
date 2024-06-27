@@ -39,3 +39,23 @@ Continued data collection efforts for the Nutrition LLM Project, focusing on sea
 - Limited post retrieval from Xiaohongshu (only 150-200 posts per keyword)
 - Potential presence of bot-generated content in Twitter data, which may affect data quality
 - Need to balance between authentic data collection and the possibility of synthetic data generation
+
+
+### Zhihan Hu
+
+#### Summary
+Worked on data collection from social media platforms, mainly from Zhihu
+
+#### Completed Tasks
+- Tried to retrieve posts from Zhihu using the question ID
+- Investigated how to get the official API of Xiaohongshu
+
+#### Ongoing/Upcoming Tasks
+- Assess the quality of collected posts from Zhihu
+- Evaluate search terms to get more posts from Zhihu
+- Try to get the number of likes of each post from Zhihu
+
+#### Blockers/Challenges
+- Limited post retrieval from Zhihu
+- Many low-quality posts from Zhihu
+- Cannot get posts from Zhihu because of anti-crawler
